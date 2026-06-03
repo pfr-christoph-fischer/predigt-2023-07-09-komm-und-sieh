@@ -1,0 +1,3 @@
+# Komm und sieh!
+
+Komm und sieh! Wer Jesus anschaut, der sieht Gott wie nie zuvor. Wer Jesus anschaut, bleibt für immer in seinem Bann. Eine lebensverändernde Reise beginnt...
