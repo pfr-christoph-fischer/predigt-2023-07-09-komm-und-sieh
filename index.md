@@ -11,7 +11,7 @@ summary: "Komm und sieh! Wer Jesus anschaut, der sieht Gott wie nie zuvor. Wer J
 source: pfarrplaner
 source_id: "386@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Komm und sieh!\"."
-audio: audio.mp3
+audio: komm-und-sieh.mp3
 audio_duration: "11:57"
 legacy_id: 386
 events:
